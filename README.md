@@ -4,10 +4,10 @@ status code is a minimalistic status finder tool written in go.
 
 # :scroll: Menu 
 
-- [Usage](#usage)
-- [Installation](#installation)
+- [Usage](#Usage)
+- [Installation](#Installation)
 
-## Usage :hammer:
+## Usage
 
 
 The file containing the list of urls should be placed in a file with the name input.txt 
@@ -17,7 +17,7 @@ Examples:
 ```bash
 >> cat input.txt | statuscode
 ```
-## Installation :hammer: 
+## Installation 
 ### From source:
 
 ```
