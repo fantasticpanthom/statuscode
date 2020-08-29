@@ -7,7 +7,8 @@ status code is a minimalistic status finder tool written in go.
 - [Usage](#usage)
 - [Installation](#installation)
 
-## :notebook_with_decorative_cover: Usage:
+## Usage :hammer:
+
 
 The file containing the list of urls should be placed in a file with the name input.txt 
 
@@ -16,7 +17,7 @@ Examples:
 ```bash
 >> cat input.txt | statuscode
 ```
-## :hammer: Installation:
+## Installation :hammer: 
 ### From source:
 
 ```
